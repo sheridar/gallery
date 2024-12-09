@@ -220,7 +220,7 @@
     "cran": true,
     "stargazers_count": 147,
     "open_issues_count": 24,
-    "forks_count": 27,
+    "forks_count": 28,
     "watchers_count": 147
   },
   "ggtech_stars": {
@@ -246,10 +246,10 @@
   },
   "ggTimeSeries_stars": {
     "cran": true,
-    "stargazers_count": 251,
+    "stargazers_count": 252,
     "open_issues_count": 7,
     "forks_count": 39,
-    "watchers_count": 251
+    "watchers_count": 252
   },
   "ggtree_stars": {
     "cran": false,
@@ -309,10 +309,10 @@
   },
   "ggpubr_stars": {
     "cran": true,
-    "stargazers_count": 1142,
+    "stargazers_count": 1143,
     "open_issues_count": 236,
     "forks_count": 165,
-    "watchers_count": 1142
+    "watchers_count": 1143
   },
   "ggthemr_stars": {
     "cran": false,
@@ -484,17 +484,17 @@
   },
   "gggenes_stars": {
     "cran": true,
-    "stargazers_count": 503,
+    "stargazers_count": 504,
     "open_issues_count": 10,
     "forks_count": 48,
-    "watchers_count": 503
+    "watchers_count": 504
   },
   "gggenomes_stars": {
     "cran": true,
-    "stargazers_count": 610,
+    "stargazers_count": 611,
     "open_issues_count": 40,
     "forks_count": 65,
-    "watchers_count": 610
+    "watchers_count": 611
   },
   "treemapify_stars": {
     "cran": true,
@@ -666,10 +666,10 @@
   },
   "ggchromatic_stars": {
     "cran": false,
-    "stargazers_count": 11,
+    "stargazers_count": 12,
     "open_issues_count": 6,
     "forks_count": 1,
-    "watchers_count": 11
+    "watchers_count": 12
   },
   "ggheatmap_stars": {
     "cran": true,
@@ -680,10 +680,10 @@
   },
   "see_stars": {
     "cran": true,
-    "stargazers_count": 891,
+    "stargazers_count": 892,
     "open_issues_count": 40,
     "forks_count": 45,
-    "watchers_count": 891
+    "watchers_count": 892
   },
   "directlabels_stars": {
     "cran": true,
@@ -772,7 +772,7 @@
   "ggblanket_stars": {
     "cran": true,
     "stargazers_count": 162,
-    "open_issues_count": 31,
+    "open_issues_count": 32,
     "forks_count": 8,
     "watchers_count": 162
   },
