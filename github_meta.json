@@ -120,10 +120,10 @@
   },
   "ggraph_stars": {
     "cran": true,
-    "stargazers_count": 1082,
+    "stargazers_count": 1080,
     "open_issues_count": 47,
     "forks_count": 114,
-    "watchers_count": 1082
+    "watchers_count": 1080
   },
   "gginnards_stars": {
     "cran": true,
@@ -491,10 +491,10 @@
   },
   "gggenomes_stars": {
     "cran": true,
-    "stargazers_count": 625,
+    "stargazers_count": 626,
     "open_issues_count": 40,
     "forks_count": 65,
-    "watchers_count": 625
+    "watchers_count": 626
   },
   "treemapify_stars": {
     "cran": true,
@@ -799,10 +799,10 @@
   },
   "tidyterra_stars": {
     "cran": true,
-    "stargazers_count": 183,
+    "stargazers_count": 184,
     "open_issues_count": 8,
     "forks_count": 8,
-    "watchers_count": 183
+    "watchers_count": 184
   },
   "ggseqplot_stars": {
     "cran": true,
